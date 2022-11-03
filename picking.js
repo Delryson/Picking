@@ -94,11 +94,11 @@ window.onload = function init() {
         }
     } );
 
-//event listeners for buttons
-document.getElementById( "rotateButton" ).onclick = rotateX;
+//event listeners for buttons (still implementing)
+//document.getElementById( "rotateButton" ).onclick = rotateX;
 
 
-    render();
+render();
 }
 
 
